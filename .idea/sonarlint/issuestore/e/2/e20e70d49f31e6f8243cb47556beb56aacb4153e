@@ -1,0 +1,6 @@
+
+Isquid:UselessImportCheck
+"Remove this duplicated import.(¸ıºô8‡˜”Ä-
+|squid:UselessImportCheck"QRemove this unused import 'org.springframework.boot.test.context.SpringBootTest'.(¿‹´˜8‡˜”Ä-
+[squid:UselessImportCheck"+Remove this unused import 'org.junit.Test'.(ùøèøÿÿÿÿ8‡˜”Ä-
+squid:UselessImportCheck"QRemove this unused import 'org.springframework.test.context.junit4.SpringRunner'.(ü·Ùûÿÿÿÿ8‡˜”Ä-

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Is it Friday yet?" tests="1" skipped="1" failures="0" errors="0" timestamp="2019-07-30T11:32:29" hostname="HOTBHZA002854" time="0.003">
+  <properties/>
+  <testcase name="Sunday isn't Friday" classname="Is it Friday yet?" time="0.003">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

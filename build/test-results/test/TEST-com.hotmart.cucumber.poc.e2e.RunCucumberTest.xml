@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hotmart.cucumber.poc.e2e.RunCucumberTest" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="HOTBHZA002854" time="0.0">
+  <properties/>
+  <system-out><![CDATA[Feature: Is it Friday yet?
+  Everybody wants to know when it's Friday
+
+  Scenario: Sunday isn't Friday          ?[90m# src/test/resources/features/cucumber_test.feature:4?[0m
+    ?[33mGiven ?[0m?[33mtoday is Sunday?[0m                ?[90m# null?[0m
+    ?[33mWhen ?[0m?[33mI ask whether it's "Friday" yet?[0m ?[90m# null?[0m
+    ?[33mThen ?[0m?[33mI should be told "Nope"?[0m         ?[90m# null?[0m
+
+?[33mUndefined scenarios:?[0m
+?[33msrc/test/resources/features/cucumber_test.feature:4 ?[0m# Sunday isn't Friday
+
+1 Scenarios (?[33m1 undefined?[0m)
+3 Steps (?[33m3 undefined?[0m)
+0m0,118s
+
+
+You can implement missing steps with the snippets below:
+
+@Given("today is Sunday")
+public void today_is_Sunday() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new cucumber.api.PendingException();
+}
+
+@When("I ask whether it's {string} yet")
+public void i_ask_whether_it_s_yet(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new cucumber.api.PendingException();
+}
+
+@Then("I should be told {string}")
+public void i_should_be_told(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new cucumber.api.PendingException();
+}
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
